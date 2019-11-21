@@ -42,12 +42,33 @@ main section{
    }
 section div img:nth-child(2) {
 /* margin: 0 23px; */
-margin-left: 25px;
+margin-left: 20px;
 margin-right: 30px;
 }
-section p img {
+section a img {
     float: left;
     margin-left: 198px;
     margin-right: 50px;
-margin-top: 2%;
+margin-top:10px;
+}
+  p {
+    
+    overflow: scroll;
+    width: 409px;
+    height: 355px;
+    margin-top: 30px;
+    margin-left: 10px;
+
+    
+
+}
+
+
+button{
+    float: right;
+     margin-right: 338px;
+     margin-top: 20px;
+     background-color: black;
+     color: rgb(78, 185, 228);
+     padding: 7px;
 }
